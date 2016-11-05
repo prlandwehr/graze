@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graze", "Graze\Graze\Graze.csproj", "{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrazeContent", "Graze\GrazeContent\GrazeContent.contentproj", "{03EB4E37-B8D8-4DBF-A992-CBE3A123F12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Debug|x86.ActiveCfg = Debug|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Debug|x86.Build.0 = Debug|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Debug|Xbox 360.Build.0 = Debug|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Release|x86.ActiveCfg = Release|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Release|x86.Build.0 = Release|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Release|Xbox 360.ActiveCfg = Release|x86
+		{9CB2D5C3-93DC-47D2-9450-9D9D3BEF459F}.Release|Xbox 360.Build.0 = Release|x86
+		{03EB4E37-B8D8-4DBF-A992-CBE3A123F12D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{03EB4E37-B8D8-4DBF-A992-CBE3A123F12D}.Debug|x86.ActiveCfg = Debug|x86
+		{03EB4E37-B8D8-4DBF-A992-CBE3A123F12D}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{03EB4E37-B8D8-4DBF-A992-CBE3A123F12D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{03EB4E37-B8D8-4DBF-A992-CBE3A123F12D}.Release|x86.ActiveCfg = Release|x86
+		{03EB4E37-B8D8-4DBF-A992-CBE3A123F12D}.Release|Xbox 360.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
